@@ -25,8 +25,3 @@ Use: This will enable user to convert JPG files to PNG or vice versa, as for som
 Working: Using the pyshorteners library we are easily able to convert the link in to a tiny url. Which can be used to share to an audience, this removes the hassle of going to multiple malicious websites and searching for a good URL converter.
 
 Use: A program that enables users to shorten links. This will reduce the size of the links as well as even make it easy for the user to remember, in case of needs.
-
-## YOUTUBE VIDEOS DOWNLOADER
-Working: Using pytube we are able to run the URL of the video through and download the video without any other files. The downloader downloads the video in the best possible video quality.
-
-Use: As the name suggests it will help users to download video from YouTube and store them on their device in any chosen format.
